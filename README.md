@@ -4,9 +4,9 @@
 - 😃 Pronouns (he/him)
 - 📚 I’m currently in my second year of **a degree in Computer Science at the University of Bath**
 
-- 📫 How to reach me **sbw28@bath.ac.uk**
+- 📫 How to reach me **sbw28@bath.ac.uk** / **hello@solomonwheeler.co.uk**
 
-- 📄 Find out more about me [https://solomon-wheeler.github.io/CV.pdf](https://solomon-wheeler.github.io/CV.pdf)
+- 📄 Find out more about me [www.solomonwheeler.co.uk](www.solomonwheeler.co.uk)
 
 
 
