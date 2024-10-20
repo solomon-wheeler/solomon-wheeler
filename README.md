@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sbw28@bath.ac.uk** / **hello@solomonwheeler.co.uk**
 
-- 📄 Find out more about me [www.solomonwheeler.co.uk](www.solomonwheeler.co.uk)
+- 📄 Find out more about me [solomonwheeler.co.uk](solomonwheeler.co.uk)
 
 
 
