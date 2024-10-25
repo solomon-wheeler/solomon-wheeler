@@ -2,7 +2,7 @@
 <h3 align="center">An outgoing, highly motivated, team worker, with a strong ability for communication and supporting the development of others.</h3>
 
 - 😃 Pronouns (he/him)
-- 📚 I’m currently in my second year of **a degree in Computer Science at the University of Bath**
+- 📚 I’m currently in my third year of **a degree in Computer Science at the University of Bath**
 
 - 📫 How to reach me **sbw28@bath.ac.uk** / **hello@solomonwheeler.co.uk**
 
