@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-wheeler&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-wheeler" /> </p>
 
 - 😃 Pronouns (he/him)
-- 📚 I’m currently in my third year of **a degree in Computer Science at the University of Bath**
+- 📚 Studied **a degree in Computer Science at the University of Bath**
 
-- 📫 How to reach me **sbw28@bath.ac.uk** / **hello@solomonwheeler.co.uk**
+- 📫 **hello@solomonwheeler.co.uk**
 
 - 📄 Find out more about me [solomonwheeler.co.uk](http://solomonwheeler.co.uk)
 
